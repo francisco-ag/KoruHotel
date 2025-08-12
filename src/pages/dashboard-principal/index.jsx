@@ -301,7 +301,7 @@ const DashboardPrincipal = () => {
             <KPICard
               title="Huéspedes Actuales"
               value={kpiData?.totalGuests}
-              subtitle="En el hotel"
+              subtitle="En el Motel"
               icon="Users"
               color="primary"
               trend="up"

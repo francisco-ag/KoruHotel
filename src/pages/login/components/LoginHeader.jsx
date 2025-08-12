@@ -14,10 +14,10 @@ const LoginHeader = () => {
       {/* Brand Title */}
       <div className="space-y-2">
         <h1 className="text-3xl font-semibold text-foreground">
-          HotelGuest Manager
+          MotelGuest Manager
         </h1>
         <p className="text-lg text-muted-foreground">
-          Sistema de Gestión Hotelera
+          Sistema de Gestión Motel
         </p>
       </div>
 

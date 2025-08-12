@@ -24,7 +24,7 @@ const PaymentSection = ({ totalAmount, onPaymentConfirm, isProcessing }) => {
       id: 'transferencia',
       name: 'Transferencia Bancaria',
       icon: 'Building2',
-      description: 'Transferencia directa a cuenta del hotel'
+      description: 'Transferencia directa a cuenta del motel'
     }
   ];
 

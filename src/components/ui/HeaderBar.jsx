@@ -30,10 +30,10 @@ const HeaderBar = ({ className = '' }) => {
             </div>
             <div className="flex flex-col">
               <h1 className="text-lg font-semibold text-foreground leading-tight">
-                Administracion Hotel
+                Administracion Motel
               </h1>
               <span className="text-xs text-muted-foreground leading-none">
-                Sistema de Gestión Hotelera
+                Sistema de Gestión Motel
               </span>
             </div>
           </div>

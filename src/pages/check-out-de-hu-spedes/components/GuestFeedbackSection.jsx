@@ -153,7 +153,7 @@ const GuestFeedbackSection = ({ onFeedbackChange }) => {
       {/* Recommendation */}
       <div className="mb-6">
         <label className="text-sm font-medium text-foreground mb-3 block">
-          ¿Recomendaría nuestro hotel?
+          ¿Recomendaría nuestro Motel?
         </label>
         <div className="flex space-x-4">
           <button

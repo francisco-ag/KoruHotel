@@ -34,7 +34,7 @@ const LoginFooter = () => {
       <div className="pt-4 border-t border-border">
         <div className="flex items-center justify-between text-xs text-muted-foreground">
           <span>Versión 2.1.4</span>
-          <span>© {currentYear} HotelGuest Manager. Todos los derechos reservados.</span>
+          <span>© {currentYear} Motel Manager. Todos los derechos reservados.</span>
         </div>
       </div>
 
